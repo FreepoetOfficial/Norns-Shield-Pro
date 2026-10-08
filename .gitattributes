@@ -1,0 +1,9 @@
+*.md text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+*.sha256 text eol=lf
+*.xlsx binary
+*.pdf binary
+*.zip binary
+*.stl binary
+*.ai binary

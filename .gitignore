@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+~$*.xlsx
+*.blend1
+/tmp/
+/output/
+/private/
+/internal/
+/docs/REVIEW.md
+/docs/reviews/
